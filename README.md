@@ -63,9 +63,6 @@ Key Features
 
 - Payment and transaction tracking
 
-- AI-generated educational media
-
-
 
 Live Links
 
